@@ -1,0 +1,29 @@
+@relation headbrain-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.Remove-R1
+
+@attribute 'Head Size(cm^3)' numeric
+@attribute 'Brain Weight(grams)' numeric
+
+@data
+3876,1405
+3863,1340
+3090,1168
+3993,1380
+3716,1300
+4315,1525
+4034,1422
+3727,1470
+3586,1250
+3269,1241
+3170,1178
+3439,1192
+3835,1315
+3318,1175
+3503,1240
+3058,1120
+4005,1280
+3497,1358
+3360,1095
+3406,1220
+4022,1485
+3571,1316
+4046,1450
